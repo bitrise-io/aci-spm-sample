@@ -30,10 +30,7 @@ _[ A brief synopsis of this library ]._
 
 ### Xcode Projects
 
-Select `File` -> `Swift Packages` -> `Add Package Dependency` and enter `https://github.com/bitrise-io/aci-spm-sample
-
-
-Sample`.
+Select `File` -> `Swift Packages` -> `Add Package Dependency` and enter `https://github.com/bitrise-io/aci-spm-sample`
 
 ### Swift Package Manager Projects
 
