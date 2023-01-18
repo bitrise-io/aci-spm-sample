@@ -30,7 +30,7 @@ _[ A brief synopsis of this library ]._
 
 ### Xcode Projects
 
-Select `File` -> `Swift Packages` -> `Add Package Dependency` and enter `https://github.com/bitrise-io/AciSpmSample`.
+Select `File` -> `Swift Packages` -> `Add Package Dependency` and enter `https://github.com/bitrise-io/aci-spm-sample`
 
 ### Swift Package Manager Projects
 
@@ -41,7 +41,7 @@ let package = Package(
     //...
     dependencies: [
         .package(
-            url: "https://github.com/bitrise-io/AciSpmSample",
+            url: "https://github.com/bitrise-io/aci-spm-sample",
             exact: "0.0.1"
         ),
     ],
