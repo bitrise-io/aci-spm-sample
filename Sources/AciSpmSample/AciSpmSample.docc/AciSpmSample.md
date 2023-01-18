@@ -1,4 +1,4 @@
-# ``MyLibraryName``
+# ``AciSpmSample``
 
 _[ A brief synopsis of this library ]._
 
